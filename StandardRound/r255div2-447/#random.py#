@@ -1,0 +1,4 @@
+import random
+
+file = open("random.data",'w')
+useri = inpurt(
